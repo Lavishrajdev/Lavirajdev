@@ -68,3 +68,9 @@
 ---
 
 <p align="center">💬 Let's connect and build something amazing together!</p>
+---
+
+### 📄 Research Publication
+- 📰 **Blockchain Technology: Transforming Supply Chain Management**
+- 📖 Published in IJTSRD | ISSN: 2456-6470 | Volume-9 | Issue-3 | June 2025
+- 🔗 [Read Paper](https://www.ijtsrd.com/papers/ijtsrd81088.pdf)
